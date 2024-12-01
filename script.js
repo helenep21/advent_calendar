@@ -16,7 +16,18 @@ const contentForDays = {
   reasons to love and admire you !<br>
   So, much like the universe, my love for you seems to expand infinitely (it's science yes!)
   `,
-  2: "A snowflake for you! ❄️",
+  2: `Second day of the month, second thing I love about you !<br>
+  I love how beautiful, pretty, cute, stunning, hot, DROP DEAD GORGEOUS you are !!<br>
+  I don't mean that in a superficial way, I mean it in what you would call a holistical way<br>
+  (still not sure of what it means lol)<br>
+  From the moment you wake up, with your hair all tousled and sleepy eyes,<br>
+  to getting dressed ready for your day,<br>
+  at work in your little blue vest,<br>
+  on a date (with me, duh) in a fancy outfit,<br>
+  to back in bed tucked in for a goodnight's sleep,<br>
+  you're always the most fascinating thing to look at in any room.<br>
+  I will never get tired of looking at you, barely listening to what you're saying<br>
+  because i'm getting distracted by how pretty you are ❤<br>`,
   3: "It's getting festive! 🎅",
   4: "Here's a warm mug of cocoa ☕",
   5: "Time for holiday music 🎶",
