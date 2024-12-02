@@ -28,7 +28,17 @@ const contentForDays = {
   you're always the most fascinating thing to look at in any room.<br>
   I will never get tired of looking at you, barely listening to what you're saying<br>
   because i'm getting distracted by how pretty you are ❤<br>`,
-  3: "It's getting festive! 🎅",
+  3: `I hope you're enjoying this little advent calendar so far my girl !<br>
+  Today's reason to love you is : your resilience.<br>
+  I'm always quite in awe of how you manage to deal with everything that is thrown your way,<br>
+  big or small, you stay the little ray of sunshine in everyone's life and I find that incredibly beautiful.<br>
+  Even when times get a little hard, you always find your way through.<br>
+  I know you sometimes have a lot going on, but it's important that you remember the following : <br>
+  - you've done a lot of hard things already<br>
+  - you've always recovered from any difficulty<br>
+  - you always have people you can lean on<br>
+  and now you'll also always have me to figure things out !<br>
+  You're my tough girl, and I'm  beyong proud of you ❤<br>`,
   4: "Here's a warm mug of cocoa ☕",
   5: "Time for holiday music 🎶",
   6: "Welcome to December! 🎄",
