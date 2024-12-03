@@ -39,7 +39,12 @@ const contentForDays = {
   - you always have people you can lean on<br>
   and now you'll also always have me to figure things out !<br>
   You're my tough girl, and I'm  beyong proud of you ❤<br>`,
-  4: "Here's a warm mug of cocoa ☕",
+  4: `Today's my favorite number, so perfect time to have a little message for my perfect girl !<br>
+  A reason to love you is your enthusiasm for everything.<br>
+  Doing life with you is so exciting because you're the best adventure partner one could ask for.<br>
+  You're always down to join me on random activities, and have ideas of your own for our dates.<br>
+  Whenever I tell you some random fun fact and you just look at me like I'm telling you the most<br>
+  fascinating story ever makes me feel all the butterflies ❤<br>`,
   5: "Time for holiday music 🎶",
   6: "Welcome to December! 🎄",
   7: "A snowflake for you! ❄️",
