@@ -53,7 +53,16 @@ const contentForDays = {
   You are so precious, and I hope you always only feel softness from me because you should<br>
   be handled with great care.<br>
   You're like a little cloud that made a wish to be human, the sweetest cotton candy every ❤<br>`,
-  6: "Welcome to December! 🎄",
+  6: `Hello pretty girl ❤<br>
+  I hope you're agreeing with all of the points so far, and there's many more to come !<br>
+  Do you know, how precious you are ?<br>
+  I mean, specifically you are one of a kind and that makes me feel very privileged to be with you.<br>
+  I'm aware of how lucky I am to be your girlfriend, every day, first thing i think about<br>
+  when I wake up and last thing on my mind when I drift to sleep.<br>
+  You have so many qualities, so many reasons to love you, in any kind of relationships honestly.<br>
+  I do think being you're partner allows me to see even more closely how precious you are, <br>
+  and that's a HUGE honor to be chosen by you.<br>
+  I cherish every second how precious you are, to me, and to everyone that knows you !<br>`,
   7: "A snowflake for you! ❄️",
   8: "It's getting festive! 🎅",
   9: "Here's a warm mug of cocoa ☕",
