@@ -45,7 +45,14 @@ const contentForDays = {
   You're always down to join me on random activities, and have ideas of your own for our dates.<br>
   Whenever I tell you some random fun fact and you just look at me like I'm telling you the most<br>
   fascinating story ever makes me feel all the butterflies ❤<br>`,
-  5: "Time for holiday music 🎶",
+  5: `Good morning my love !<br>
+  One of my favorite thing about you is your softness, both in how you are and how you look.<br>
+  That's why I always want to cover your face in kisses !!<br>
+  But more importantly, you're so soft towards me and that always makes me feel so safe<br>
+  and taken care of.<br>
+  You are so precious, and I hope you always only feel softness from me because you should<br>
+  be handled with great care.<br>
+  You're like a little cloud that made a wish to be human, the sweetest cotton candy every ❤<br>`,
   6: "Welcome to December! 🎄",
   7: "A snowflake for you! ❄️",
   8: "It's getting festive! 🎅",
