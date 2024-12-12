@@ -135,9 +135,21 @@ const contentForDays = {
   You are so bright, you brighten my life so much and I couldn't be more grateful to have you <br>
   Your cute smile is so contagious, it's almost blinding !`,
   //bright
-  13: "It's getting festive! 🎅",
+  13: `Now I can officially start saying we've been dating for "almost" 6 months hehehe<br>
+  Over the last few months, I got to witness upclose how incredibly mature you are.<br>
+  I'm so in awe of how much of an adult you had to be early, and how well adjusted you are.<br>
+  This was probably not easy to deal with, but it revealed just another one of your strength !<br>
+  That makes you such a solid partner, an amazing communicator and a very level headed person.<br>
+  Anytime I need someone to come to deal with a complicated emotion, you're always there to help<br>
+  me unknot my brain and my thoughts.<br>
+  I just hope I can do the same for you sometimes, in return ❤<br>
+  <br>
+  `,
+  //mature
   14: "Here's a warm mug of cocoa ☕",
+  //femme
   15: "Time for holiday music 🎶",
+  //
   16: "Welcome to December! 🎄",
   17: "A snowflake for you! ❄️",
   18: "It's getting festive! 🎅",
