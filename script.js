@@ -146,7 +146,17 @@ const contentForDays = {
   <br>
   `,
   //mature
-  14: "Here's a warm mug of cocoa ☕",
+  14: `Today's pick is going to sound a little weird at first, but I think you'll appreciate it !<br>
+  I love how femme you are hahaha<br>
+  Not because I only love feminity in women, I love it specifically on you.<br>
+  Because it's not just an aesthetic to you, but an identity you're proud of, and<br>
+  you embody it fully.<br>
+  With your purse, your lipstick and your little dress is when you look the most yourself to me ❤<br>
+  I also love how you claim it, and how you defend that as an identity, I also think you have a very<br>
+  bright point of view on that topic.<br>
+  You're the cutest femme princess, and you're well aware of it !<br>
+  <br>
+  `,
   //femme
   15: "Time for holiday music 🎶",
   //
