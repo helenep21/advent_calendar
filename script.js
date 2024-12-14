@@ -158,8 +158,17 @@ const contentForDays = {
   <br>
   `,
   //femme
-  15: "Time for holiday music 🎶",
-  //
+  15: `I know I haven't had the privilege of reading a piece of yours yet, but I don't need to <br>
+  to know it's brilliant, moving and amazing.<br>
+  You're naturally poetic, you see poetry and beauty in everything around you, you're a great writer<br>
+  even through simple texts, and you're incredibly smart.<br>
+  All of that is enough to know you're a great writer too.<br>
+  I think it's even more impressive that you're able to produce art pieces out of tough times.<br>
+  There's something beautiful and tender about that, which only makes more sense for you.<br>
+  <br>
+  I hope one day I'll get to read some of it :)<br>
+  <br>`,
+  //writing
   16: "Welcome to December! 🎄",
   17: "A snowflake for you! ❄️",
   18: "It's getting festive! 🎅",
