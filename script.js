@@ -170,6 +170,7 @@ const contentForDays = {
   <br>`,
   //writing
   16: "Welcome to December! 🎄",
+  //
   17: "A snowflake for you! ❄️",
   18: "It's getting festive! 🎅",
   19: "Here's a warm mug of cocoa ☕",
