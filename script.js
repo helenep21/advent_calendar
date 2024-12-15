@@ -169,16 +169,25 @@ const contentForDays = {
   I hope one day I'll get to read some of it :)<br>
   <br>`,
   //writing
-  16: "Welcome to December! 🎄",
-  //
-  17: "A snowflake for you! ❄️",
-  18: "It's getting festive! 🎅",
-  19: "Here's a warm mug of cocoa ☕",
-  20: "Time for holiday music 🎶",
-  21: "Time for holiday music 🎶",
-  22: "Time for holiday music 🎶",
-  23: "Time for holiday music 🎶",
-  24: "Time for holiday music 🎶",
+  16: `So I mentioned before how bright you are, so this might sound similar but to me it's not exactly the same.<br>
+  You're so incredibly SMART ! I always learn so much from you, and I love nothing more than hearing<br>
+  you explain something complex to me (sorry sometimes I can barely hear what you say because my<br>
+  brain just goes I LOVE YOU I LOVE YOU I LOVE YOU very loudly).<br>
+  It also means I can always rely on you to help me untangle things and figure out life, <br>
+  you always help me find a solution to problems.<br>
+  Who knew such a tiny person could have the space for such a big brain !<br>
+  You're so smart you even KNOW you're smart hahaha<br>
+  Having a partner as smart as you is a huge blessing, and a big help in life ❤
+  <br>`,
+  //smart
+  17: ``,
+  18: ``,
+  19: ``,
+  20: ``,
+  21: ``,
+  22: ``,
+  23: ``,
+  24: ``,
 };
 
 // Function to render the calendar grid
