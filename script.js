@@ -180,7 +180,15 @@ const contentForDays = {
   Having a partner as smart as you is a huge blessing, and a big help in life ❤
   <br>`,
   //smart
-  17: ``,
+  17: `I think I tell you this quite a few times a day, but do you know how CUTE you are ?<br>
+  Like objectively speaking, you are the embodiment of cuteness <br>
+  From your looks, to how you speak, to how you think, how you act, how you ARE.<br>
+  I was doing some reading a few days ago (the dictionnary), and lo and behold under Cute I found<br>
+  a picture of you !!<br>
+  If you were an animal you'd be whatever you think is the cutest one.<br>
+  I think cute is a very good way to describe you, because it means both beauty and kindness.<br>
+  But also it has a fun side, it's something exciting and universal.<br>
+  So it's perfect for you, my cutie ❤<br>`,
   18: ``,
   19: ``,
   20: ``,
