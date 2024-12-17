@@ -189,7 +189,18 @@ const contentForDays = {
   I think cute is a very good way to describe you, because it means both beauty and kindness.<br>
   But also it has a fun side, it's something exciting and universal.<br>
   So it's perfect for you, my cutie ❤<br>`,
-  18: ``,
+  //cute
+  18: `This point is something true for me, but also for anyone lucky enough to be in your heart.<br>
+  You put so much effort into others, into your relationship with them and that makes us feel special.<br>
+  You make sure to get quality time with people you love, you get them things you think they'll like,<br>
+  you always offer your help when it's possible and you always listen and make space for them.<br>
+  It's obviously a very nice thing to find in a partner, but it's also a beautiful thing to watch you<br>
+  do for others in your life.<br>
+  You're very easy to love just because of all the other qualities I've mentionned in the previous points,<br>
+  but then you also put effort in so it simply makes me feel like I won the lottery.<br>
+  I get to be with someone as wonderful as you AND I'm worthy of you going the extra step too ? incredible !<br>
+  <br>`,
+  //puts effort in
   19: ``,
   20: ``,
   21: ``,
