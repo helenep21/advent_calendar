@@ -201,7 +201,19 @@ const contentForDays = {
   I get to be with someone as wonderful as you AND I'm worthy of you going the extra step too ? incredible !<br>
   <br>`,
   //puts effort in
-  19: ``,
+  19: `We are nearing the end of the advent calendar :(<br>
+  I'll still give you compliments every day tho <br>
+  Because I love you so much !!!! <br>
+  I call you my academic princess because I love how ambitious and driven you are.<br>
+  It's incredibly HOT to me, that you have such a focus and you're so dedicated to your education,<br>
+  and you also have ambition for your career.<br>
+  But also in a way that you want be helpful, to do good, to help others, such a selfless thing.<br>
+  When I was watching you work on your thesis, I fell even more in love with you, your eyebrows a little<br>
+  frowned because you wanted to do well. And then I read your thesis and OH MY GOD you're one brilliant woman.<br>
+  You set goals for yourself, things you want to accomplish, and you end up overachieving.<br>
+  I'm so in awe of you ❤<br>
+  <br>`,
+  //ambitious
   20: ``,
   21: ``,
   22: ``,
