@@ -214,7 +214,21 @@ const contentForDays = {
   I'm so in awe of you ❤<br>
   <br>`,
   //ambitious
-  20: ``,
+  20: `When you read this I might already be on my train to Paris, I will miss you so much !!!<br>
+  This is a different one, a special edition shall we say ?<br>
+  While I take my train to Paris, I will without a doubt be reminded of the times I was visiting you<br>
+  but then had to go back "home" (quotes because you are the real home :) ).<br>
+  But you made the distance so worth it. Proved to me who was kind of against long distance how wrong<br>
+  I was. With the right person, everything becomes very easy !<br>
+  Every time, the only thing I could think of on that train was how happy you make me, how much I was<br>
+  already looking forward to our next reunion, and how much I was falling in love with you.<br>
+  Now, I somehow miss you immensely already when I just can't see you for 2 days that I keep thinking<br>
+  how did we ever manage the long distance ??<br>
+  But then I remember, I simply love you too much to let something as silly as kilometers be an issue ❤<br>
+  I'd do it all over again, and I will do it if we have to again because you're worth the wait,<br>
+  even if my impatience is probably my biggest flaw, knowing I'm with you helps a lot<br>
+  <br>`,
+  //make distance worth it
   21: ``,
   22: ``,
   23: ``,
