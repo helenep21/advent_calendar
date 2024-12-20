@@ -229,7 +229,18 @@ const contentForDays = {
   even if my impatience is probably my biggest flaw, knowing I'm with you helps a lot<br>
   <br>`,
   //make distance worth it
-  21: ``,
+  21: `I think I'm genuinely going to miss getting to see your reaction to each daily little paragraph/<br>
+  I hope this advent calendar is making you smile, making you feel seen and appreciated :)<br>
+  Because you are so attentive with me, I only hope you feel the same way.<br>
+  You always do small things for me that are such strong reminders that you love me !<br>
+  You say it but you also show it, and I appreciate that so much.<br>
+  Giving me your sweater with your perfume on it, writing me cards, getting me flowers, etc<br>
+  This all sound like small gestures, but I know that takes genuine care to think about and to execute.<br>
+  I think this is one characteristic of yours that's particularly nice to get in a partner,<br>
+  because they sometimes mean so much more than an "I love you".<br>
+  With that being said, I'm still telling you : I love you ❤ <br>
+  <br>`,
+  //attentive
   22: ``,
   23: ``,
   24: ``,
