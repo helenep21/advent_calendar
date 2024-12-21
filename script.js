@@ -27,7 +27,8 @@ const contentForDays = {
   to back in bed tucked in for a goodnight's sleep,<br>
   you're always the most fascinating thing to look at in any room.<br>
   I will never get tired of looking at you, barely listening to what you're saying<br>
-  because i'm getting distracted by how pretty you are ❤<br>`, //beautiful
+  because i'm getting distracted by how pretty you are ❤<br>`, 
+  //beautiful
   3: `I hope you're enjoying this little advent calendar so far my girl !<br>
   Today's reason to love you is : your resilience.<br>
   I'm always quite in awe of how you manage to deal with everything that is thrown your way,<br>
@@ -38,13 +39,15 @@ const contentForDays = {
   - you've always recovered from any difficulty<br>
   - you always have people you can lean on<br>
   and now you'll also always have me to figure things out !<br>
-  You're my tough girl, and I'm  beyong proud of you ❤<br>`,//resilient
+  You're my tough girl, and I'm  beyong proud of you ❤<br>`,
+  //resilient
   4: `Today's my favorite number, so perfect time to have a little message for my perfect girl !<br>
   A reason to love you is your enthusiasm for everything.<br>
   Doing life with you is so exciting because you're the best adventure partner one could ask for.<br>
   You're always down to join me on random activities, and have ideas of your own for our dates.<br>
   Whenever I tell you some random fun fact and you just look at me like I'm telling you the most<br>
-  fascinating story ever makes me feel all the butterflies ❤<br>`,//enthusiasm
+  fascinating story ever makes me feel all the butterflies ❤<br>`,
+  //enthusiasm
   5: `Good morning my love !<br>
   One of my favorite thing about you is your softness, both in how you are and how you look.<br>
   That's why I always want to cover your face in kisses !!<br>
@@ -241,7 +244,20 @@ const contentForDays = {
   With that being said, I'm still telling you : I love you ❤ <br>
   <br>`,
   //attentive
-  22: ``,
+  22: `Only 3 more days of this advent calendar !<br>
+  Second without seeing you too, I know I am missing you so much already and is very much looking<br>
+  forward to being back with you in Berlin.<br>
+  I love the stability you bring to my life. In just a few months, you've become an essential fundation
+  to my days, that I don't remember how life was before that.<br>
+  And I don't want to remember, because it's just so much better with you.<br>
+  Whenever I have bad days : you're here.<br>
+  Whenever I have good days : you're here.<br>
+  Whenever I have average days : you're still here.<br>
+  I know I can count on you, and even rely on you sometimes when it's needed.<br>
+  You're extremely reliable, helpful and communicative with me, which never makes me doubt about you.<br>
+  I simply couldn't imagine my life without you in it :)
+  <br>`,
+  //stable
   23: ``,
   24: ``,
 };
