@@ -258,8 +258,22 @@ const contentForDays = {
   I simply couldn't imagine my life without you in it :)
   <br>`,
   //stable
-  23: ``,
+  23: `Almost the last day !!! <br>
+  But also a day closer to seeing you YAYYYYYY <br>
+  Will jump in your arms, it's been 15 years (a week)<br>
+  Speaking of that, I love how much of a romantic you are !<br>
+  You're always getting me flowers, cooking me specific meals I would like, writing me cards,<br>
+  holding my hands everywhere, (added yesterday) making hearts in the snow for me, and so much more.<br>
+  I think it's one of those qualities of yours I wouldn't put on my must haves in a partner, but now<br>
+  that I've experienced them with you I would not go back.<br>
+  It's typically what makes me say that you're even better than I thought I could have.<br>
+  You're my TraumFrau, for so many reasons, and this is one of them.<br>
+  You love love, and that's just an adorable thing ❤ <br>
+  <br>
+  `,
+  //romantic
   24: ``,
+  //why you captivated my attention the first time (open)
 };
 
 // Function to render the calendar grid
