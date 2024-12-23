@@ -272,7 +272,36 @@ const contentForDays = {
   <br>
   `,
   //romantic
-  24: ``,
+  24: `My love, my girl, my princess, my everything, my favorite person ❤<br>
+  Today is the last day :( I guess I'll just have to send you cute texts an other way :)<br>
+  As the last day, I think you should know what captivated me so much about you when we first got to<br>
+  know each other, and what to me makes you the best partner.<br>
+  I know I often say I immediatly noticed how bright you are, which is true, that's what caught my eyes<br>
+  the first second I saw you go through the door at Flora, but that's just what makes you someone amazing<br>
+  to know in any kind of relationship.<br>
+  This is more what I love most about you as a partner.<br>
+  I love how open you were immediatly with me.<br>
+  Telling me things about you, giving me the privilege to let you know you, learn all the stories<br>
+  that turned you into the amazing brilliant person you are, good or bad.<br>
+  I will always cherish all our deep and long text exchanges when I was just a friend of a friend<br>
+  you met for barely a few hours :)<br>
+  I felt so intrigued by you, by your opinions, your goals, your life and the more I got to know<br>
+  the more I wanted to learn.<br>
+  <br>
+  And even better, this openess goes both you.<br>
+  I really felt like you also wanted to know about my stories, my life.<br>
+  To this day, even for more mundane things, you always want to know about my day no matter how<br>
+  possibly uninteresting it might be sometimes.<br>
+  I also really appreciate that you challenge my (sometimes) lack of openness on some deeper things.<br>
+  It's making me grow so much as a person, and solidifies our relationship even further.<br>
+  <br>
+  I will never be bored of hearing things about you, or you asking about me.<br>
+  In fact, I want that forever.<br>
+  I love you wholeheartedly my sweet girl ❤❤<br>
+  I hope you have a very merry christmas surrounded by your family !<br>
+  I am constantly thinking about you, especially on a day like this.<br>
+  I'm already looking forward to the time where we can spend it together, in the future :) <br>
+  <br>`,
   //why you captivated my attention the first time (open)
 };
 
